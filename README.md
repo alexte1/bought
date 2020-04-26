@@ -1,2 +1,1 @@
-# bought
-a bot to do things that I am too lazy to do
+An attempt to make a bought to scrape a website and gather some.... information..
